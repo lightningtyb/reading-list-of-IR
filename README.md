@@ -4,7 +4,7 @@
 - [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991)(NeurIPS 2022)
 
 ## Hybrid Retrieval
-- [An Analysis of Fusion Functions for Hybrid Retrieval](https://arxiv.org/abs/2210.11773)(https://arxiv.org/abs/2210.11934)
+- [An Analysis of Fusion Functions for Hybrid Retrieval](https://arxiv.org/abs/2210.11773)
 
 ## Pre-training for IR
 - [Retrieval Oriented Masking Pre-training Language Model for Dense Passage Retrieval](https://arxiv.org/abs/2210.15133)
